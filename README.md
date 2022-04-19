@@ -11,15 +11,16 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Royal Marsden NHS Foundation Trust** (Dec 2014 to Oct 2020)  
+_Study Leave Administrator -> (2017) Study Leave Coordinator_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Digitised committee
+- automation through excel
+- Intergrated to moodle
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+**GJM Property** (November 2013 to August 2015)  
+_Sales Negotiator_
+I honed my communication and negotiation skills.
 
 ## Skills
 
@@ -53,7 +54,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Nov 2021 to Mar 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -63,20 +64,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - RSpec, Jasmine
 
 #### Open University (On going - 260/360 credits)
-
-- BSc Natural Science, specialising in Physics and Astronomy
+_BSc Natural Science, specialising in Physics and Astronomy_
 - Projected Grade: Distinction
 - I have a fascination in quantum and astrophysics (Really small and really big). I took a double module in mathematical modelling which I have found to have great utility, such as distilling qualitative data into quantitative for problem solving.
 
-#### Chapterhouse (2012)
-- Qualification in copy editing and proofreading
+#### Chapterhouse (Feb to Sep 2012)
+_Qualification in copy editing and proofreading_
 - Required immaculate English language skills and keen attention to detail.
 
 #### Langley Park School for Boys (2001 - 2008)
 - A Levels: Mathematics (A), Physics (A), Chemistry (B)
 - GCSEs: 4 A*, 7 A
-
-- GCSEs: English Language (A), English Literature (A*), Mathematics (A), French (A*), Biology (A), Chemistry (A), Physics (A*), Design and Technology (A), Statistics (A), ICT (A) Geography (A*).
 
 ## Hobbies
 
