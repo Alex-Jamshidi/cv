@@ -1,4 +1,4 @@
-## Your Name
+## Alex Jamshidi
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -62,16 +62,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Open University (On going - 260/360 credits)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc Natural Science, specialising in Physics and Astronomy
+- Projected Grade: Distinction
+- I have a fascination in quantum and astrophysics (Really small and really big). I took a double module in mathematical modelling which I have found to have great utility, such as distilling qualitative data into quantitative for problem solving.
 
-#### Any other qualifications
+#### Chapterhouse (2012)
+- Qualification in copy editing and proofreading
+- Required immaculate English language skills and keen attention to detail.
 
-That in some arguable way make you a better software developer or well-rounded person
+#### Langley Park School for Boys (2001 - 2008)
+- A Levels: Mathematics (A), Physics (A), Chemistry (B)
+- GCSEs: 4 A*, 7 A
+
+- GCSEs: English Language (A), English Literature (A*), Mathematics (A), French (A*), Biology (A), Chemistry (A), Physics (A*), Design and Technology (A), Statistics (A), ICT (A) Geography (A*).
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Learning to speak Spanish
+Cycling, bouldering, gardening, reading
