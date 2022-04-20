@@ -6,7 +6,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Coding Game**              | A webapp to do x. | Python            |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
@@ -17,9 +17,14 @@ _Study Leave Administrator -> (2017) Study Leave Coordinator_
 - Digitised committee
 - automation through excel
 - Intergrated to moodle
+- Realised I should be coder
 
-**GJM Property** (November 2013 to August 2015)  
+**GJM Property** (November 2013 to August 2014)  
 _Sales Negotiator_
+I honed my communication and negotiation skills.
+
+**Marks & Spencer** (November 2013 to August 2014)  
+_Sales Assistant_
 I honed my communication and negotiation skills.
 
 ## Skills
@@ -64,9 +69,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - RSpec, Jasmine
 
 #### Open University (On going - 260/360 credits)
-_BSc Natural Science, specialising in Physics and Astronomy_
+_BSc Natural Science, specialising in Physics and Astronomy - for IoP accreddited BSc Physics_
 - Projected Grade: Distinction
-- I have a fascination in quantum and astrophysics (Really small and really big). I took a double module in mathematical modelling which I have found to have great utility, such as distilling qualitative data into quantitative for problem solving.
+- I have a fascination in quantum and astrophysics (Really small and really big things). I took a double module in mathematical modelling which I have found to have great utility, such as distilling qualitative data into quantitative for problem solving and ease of manipulation.
 
 #### Chapterhouse (Feb to Sep 2012)
 _Qualification in copy editing and proofreading_
@@ -75,6 +80,7 @@ _Qualification in copy editing and proofreading_
 #### Langley Park School for Boys (2001 - 2008)
 - A Levels: Mathematics (A), Physics (A), Chemistry (B)
 - GCSEs: 4 A*, 7 A
+- Represented my school and borough in mathematics competitions reguarly
 
 ## Hobbies
 
